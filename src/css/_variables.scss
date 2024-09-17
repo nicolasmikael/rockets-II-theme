@@ -1,0 +1,22 @@
+:root {
+  --primary-color: #ffffff;
+  --background-color: #fffcfc;
+  --card-background: #f9f9f9;
+  --text-color: #000000;
+  --switch-background-color: black;
+}
+
+.dark-theme {
+  --primary-color: #ffffff;
+  --background-color: #121212;
+  --card-background: #1e1e1e;
+  --text-color: #ffffff;
+  --switch-background-color: white;
+
+  .background-modulo {
+    background-color: #2b2b2b;
+  }
+  .column-background {
+    background-color: #474545;
+  }
+}
